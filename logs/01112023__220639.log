@@ -1,0 +1,4 @@
+[ 2023-01-11 22:06:40,791 ] 14 root - INFO - Creating model resolver object.
+[ 2023-01-11 22:06:40,791 ] 16 root - INFO - Reading file:/config/workspace/aps_failure_training_set1.csv
+[ 2023-01-11 22:06:43,755 ] 20 root - INFO - Loading transformer to transform dataset
+[ 2023-01-11 22:06:43,819 ] 26 root - INFO - Loading model to make prediction

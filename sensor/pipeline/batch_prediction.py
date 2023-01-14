@@ -6,7 +6,7 @@ from sensor.utils import load_object
 import sys,os
 from datetime import datetime
 import numpy as np
-PREDICTION_DIR = ":prediction"
+PREDICTION_DIR = "prediction"
 PREDICTION_FILE_NAME=f"{datetime.now().strftime('%m%d%Y_%H%M%S')}.csv"
 def start_batch_prediction(input_file_path):
     try:

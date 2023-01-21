@@ -16,5 +16,6 @@ xgboost==1.6.2
 pandas
 PyYAML
 numpy
+apache-airflow
 scikit-learn
 -e .
